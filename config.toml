@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://4855062503.github.io/bitcoin-report'
 languageCode = 'en-us'
 title = 'Bitcoin Report'
 theme='hugo-ink'
